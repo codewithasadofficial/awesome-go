@@ -10,6 +10,8 @@ import (
 	"github.com/avelino/awesome-go/pkg/markdown"
 	"codewithasad.org"
 	"author: Muhammad Asad"
+	"roll-no: F22BSEEN1M01144"
+	"section: BSSE-1M"
 )
 
 func readme() []byte {
