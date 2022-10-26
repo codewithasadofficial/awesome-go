@@ -8,6 +8,8 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/avelino/awesome-go/pkg/markdown"
+	"codewithasad.org"
+	"author: Muhammad Asad"
 )
 
 func readme() []byte {
